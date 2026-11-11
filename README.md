@@ -25,7 +25,7 @@ Este proyecto fue desarrollado aplicando tecnologías web modernas, centradas en
 - Granados Medina, Jose Faustino - U202319097
 - Zenaida Quispe Taco - U202120634
 - Luis Enrique Chavez Estrada - U201918169
-- Ener Andres Bonifacio Espíritu - U202120718
+- Fabricio Alonso Diaz Enriquez - U20221F017
 
 ---
 
